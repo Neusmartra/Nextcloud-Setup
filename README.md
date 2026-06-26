@@ -1,4 +1,3 @@
-
 # 🚀 Nextcloud – Zero‑Touch Deployment
 
 **Ein interaktives Bash‑Skript für die automatisierte Installation und Optimierung von Nextcloud auf Debian/Ubuntu.**
@@ -18,10 +17,10 @@
 ## 🖥️ Installation
 
 ```bash
-git clone https://github.com/NeuSmartRa-Systems/Nextcloud-Setup.git
-cd Nextcloud-Setup
-chmod +x Nextcloud-Setup.sh
-sudo ./Nextcloud-Setup.sh
+git clone https://github.com/NeuSmartRa-Systems/nextcloud-setup-wizard.git
+cd nextcloud-setup-wizard
+chmod +x nc-setup-wizard.sh.sh
+sudo ./nc-setup-wizard.sh.sh
 ```
 
 Das Skript installiert fehlende Abhängigkeiten (curl, gpg, sudo, gum) selbstständig.
